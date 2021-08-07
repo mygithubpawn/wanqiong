@@ -7,6 +7,7 @@ gulimall` 项目致力于打造一个完整的电商系统，采用现阶段流�
 ### 项目API接口文档
 
 - 文档地址：[https://easydoc.xyz/s/78237135/ZUqEdvA4/hKJTcbfd]()
+- 项目学习地址：https://www.bilibili.com/video/BV1np4y1C7Yf?share_source=copy_web
 
 ### 项目介绍
 
@@ -182,7 +183,5 @@ server {
 - 克隆整个后端项目 `gulimall` ，并导入 IDEA 中完成编译
 
 
-
-### 如果你喜欢，要是觉得对你有帮助的话，请点个赞是对我最大的支持！
 
 
